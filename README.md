@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="./README.md">🇬🇧 English</a>
+  ·
+  <a href="./README.ES.md">🇪🇸 Español</a>
+</p>
 # SearchAI for Magento 2
 
 SearchAI is a free, open-source product-discovery chatbot for Magento Open Source and Adobe Commerce. Customers ask natural-language questions; Magento retrieves a small candidate set; an AI provider explains or recommends only those products; Magento validates the IDs and renders current product cards.
